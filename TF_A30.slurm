@@ -40,8 +40,5 @@ pip install --upgrade pip
 pip install wheel==0.36.2 six==1.16.0 requests==2.25.1 packaging==20.9 typing-extensions==3.7.4.3 urllib3==1.26.5
 
 
-
-###### TO DO ###########################
 cd $SCRATCH/A30
 python TF_MNIST.py
-###### END TODO ########################
